@@ -1,16 +1,8 @@
 # movie_rating
 
-A new Flutter project.
+Discover and rate movies effortlessly with our sleek Flutter app. Explore a vast collection, access ratings, and uncover hidden gems. Stay informed, make informed choices, and never miss out on the best films. Experience the thrill of finding your next favorite movie with our cutting-edge app
 
-## Getting Started
+## ScreenShots
+![movie 1](https://github.com/SaudAlbarkheel/Movie-Rating-app/assets/144757142/d1a82c05-3b7c-4529-999a-30533559ecc3)
+![movie 2](https://github.com/SaudAlbarkheel/Movie-Rating-app/assets/144757142/9ebbc7f8-0589-4bcc-ac3c-46aee36344ef)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
